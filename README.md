@@ -5,8 +5,8 @@ Hijra in Terminal (HiT)
 Once you launch terminal or run `source ~/.bashrc` on terminal, you will get this result.
 
 
-	`Today in hijra: 27 SYAWAL 1437
-	Today in masihi: 1 OGOS 2016`
+	Today in hijra: 27 SYAWAL 1437
+	Today in masihi: 1 OGOS 2016
 
 
 ## How to add to my bashrc ?
@@ -14,15 +14,15 @@ Simply follow this tep.
 
 Pull this repo first !
 
-	`git pull https://github.com/HakaseShounen/HijrainTerminal`
+	git pull https://github.com/HakaseShounen/HijrainTerminal
 
 Go to repo directory
 
-	`cd HijrainTerminal`
+	cd HijrainTerminal
 
 Add to bashrc
 
-	`cat code.sh >> ~/.bashrc`
+	cat code.sh >> ~/.bashrc
 
 Done !!
 
