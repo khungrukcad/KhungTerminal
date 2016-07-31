@@ -3,6 +3,8 @@ Hijra in Terminal (HiT)
 
 ## Synopsis
 Once you launch terminal or run `source ~/.bashrc` on terminal, you will get this result.
+
+
 	`Today in hijra: 27 SYAWAL 1437
 	Today in masihi: 1 OGOS 2016`
 
@@ -11,12 +13,15 @@ Once you launch terminal or run `source ~/.bashrc` on terminal, you will get thi
 Simply follow this tep.
 
 Pull this repo first !
-	`git pull https://github.com/HakaseShounen/HijrainTerminal'
+
+	`git pull https://github.com/HakaseShounen/HijrainTerminal`
 
 Go to repo directory
+
 	`cd HijrainTerminal`
 
 Add to bashrc
+
 	`cat code.sh >> ~/.bashrc`
 
 Done !!
