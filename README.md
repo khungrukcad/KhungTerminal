@@ -26,7 +26,8 @@ Add to bashrc
 
 Done !!
 
-
+## Screenshot
+[![HijrainTerminal screenshot](https://github.com/HakaseShounen/HijrainTerminal/raw/master/screenshot/screenshot.png)]
 
 
 ## Copyright
