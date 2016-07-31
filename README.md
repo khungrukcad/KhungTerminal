@@ -10,7 +10,7 @@ Once you launch terminal or run `source ~/.bashrc` on terminal, you will get thi
 
 
 ## How to add to my bashrc ?
-Simply follow this tep.
+Simply follow this step.
 
 Pull this repo first !
 
