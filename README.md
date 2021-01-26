@@ -1,5 +1,5 @@
-# HijrainTerminal
-Hijra in Terminal (HiT)
+# KhunginTerminal
+Khung in Terminal (HiT)
 
 ## Synopsis
 Once you launch terminal or run `source ~/.bashrc` on terminal, you will get this result.
@@ -14,11 +14,11 @@ Simply follow this step.
 
 Pull this repo first !
 
-	git pull https://github.com/HakaseShounen/HijrainTerminal
+	git pull https://github.com/khungrukcad/KhunginTerminal
 
 Go to repo directory
 
-	cd HijrainTerminal
+	cd KhunginTerminal
 
 Add to bashrc
 
@@ -27,7 +27,7 @@ Add to bashrc
 Done !!
 
 ## Screenshot
-![HijrainTerminal screenshot](https://github.com/HakaseShounen/HijrainTerminal/raw/master/screenshot/screenshot.png)
+![KhunginTerminal screenshot](https://github.com/khungrukcad/KhunginTerminal/raw/master/screenshot/screenshot.png)
 
 
 ## Copyright
@@ -41,4 +41,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 ## Contact
-Feel free to contact me at hakaseshounen@gmail.com
+Feel free to contact me at khungrukcad@gmail.com
